@@ -6,5 +6,3 @@ This react starter contains the following packages (will be updated in case any 
 * [Babel](https://babeljs.io/)
 * [Webpack](https://webpack.github.io/)
 
-
-# ReactApp
