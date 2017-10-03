@@ -7,3 +7,4 @@ This react starter contains the following packages (will be updated in case any 
 * [Webpack](https://webpack.github.io/)
 
 
+# ReactApp
